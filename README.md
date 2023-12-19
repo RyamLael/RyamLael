@@ -5,7 +5,7 @@ computer engineering student
 ----------------------------
 
 * 🌍  I'm based in Sobral, Ceará
-* 🚀  I'm currently working on [Game Development](http://https://github.com/pab-h/loremipsum)
+* 🚀  I'm currently working on [Game Development](https://github.com/pab-h/loremipsum)
 * 🧠  I'm learning HTML, CSS and JavaScript
 * ⚡  My dog is called Krypto
 
