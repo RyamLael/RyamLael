@@ -11,9 +11,6 @@ computer engineering student
 * 🧠  I'm learning HTML, CSS and JavaScript
 * ⚡  My dog is called Krypto
 
-<a href="https://www.github.com/RyamLael" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/RyamLael?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
-
 ### Skills
 
 
