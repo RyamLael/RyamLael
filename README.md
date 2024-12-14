@@ -7,9 +7,8 @@ computer engineering student
 ----------------------------
 
 * 🌍  I'm based in Sobral, Ceará
-* 🚀  I'm currently working on [Game Development](http://https://github.com/pab-h/loremipsum)
-* 🧠  I'm learning HTML, CSS and JavaScript
-* 
+* 🚀  I am currently working on a backend project for the Software Engineering course.
+* 🧠  I am learning to develop APIs in Python using Flask.
 ### Skills
 
 
